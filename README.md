@@ -10,6 +10,6 @@
   
 ![Dawn](https://github.com/user-attachments/assets/22ccb344-981c-4bdb-a336-f13d19d50577)
 
-![Never](https://github.com/user-attachments/assets/050b6763-37b0-4cb8-9fd4-8b1959023c1f)
+<!-- ![Never](https://github.com/user-attachments/assets/050b6763-37b0-4cb8-9fd4-8b1959023c1f) -->
 
 </div>
