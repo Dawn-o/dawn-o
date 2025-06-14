@@ -13,14 +13,6 @@
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </div>
 
-<br />
-
-<div>
-
-  ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31lihcsabx5yz4472jx7kq53k7i4&width=840&count=1)
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31lihcsabx5yz4472jx7kq53k7i4&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31lihcsabx5yz4472jx7kq53k7i4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=ffffff&bar_color_cover=false)">
-
 </div>
 
 
