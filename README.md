@@ -1,7 +1,5 @@
 <div align="center">
   
-![Dawn](https://github.com/user-attachments/assets/eac27d62-64f5-4f7f-b8d6-d503bc36d311)
-
 <div>
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -13,8 +11,6 @@
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </div>
 
+![](https://github.com/user-attachments/assets/050b6763-37b0-4cb8-9fd4-8b1959023c1f)
+
 </div>
-
-
-
-<!-- ![Never](https://github.com/user-attachments/assets/050b6763-37b0-4cb8-9fd4-8b1959023c1f) -->
